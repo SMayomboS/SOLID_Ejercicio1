@@ -28,4 +28,8 @@ public class Matriz {
 
         return MatrizFactory.crearMatriz(transpuesta);
     }
+
+    public int[][] getElementos() {
+        return elementos;
+    }
 }
