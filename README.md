@@ -12,6 +12,9 @@ Este proyecto implementa una clase `Matriz` en Java que permite representar, imp
 - ✅ Uso de principios SOLID y patrón creacional.
 
 ---
+## Diagrama de Clases
+![img.png](img.png)
+---
 
 ## 🛠 Estructura del Proyecto
 
